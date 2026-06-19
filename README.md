@@ -3,7 +3,7 @@
 A personal portfolio website showcasing my projects, experience, and creative work.
 
 ## Live Demo
-[View the website](#)
+[https://odreeintech101.github.io/Audrey-s-Creative-Space-Portofolio-/](#)
 
 ## About
 This portfolio highlights my background in business, leadership, event coordination, and creative work.
